@@ -9,6 +9,11 @@ an even amount of button presses will activate 3 leds and they will blink once.
 both functions will repeat so long as the button is held in.
 */
 
+/* a man went to the doctor complaining of hearing loss
+the Doctor said: "well what are the symptoms"
+the man said: "Homer is fat and stupid and Marge has tall blue hair"
+Robert Pratley :) */
+
 int count = 0;
 int buttonState;
 int ledPins[] = {5,6,7};
