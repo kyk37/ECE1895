@@ -14,6 +14,13 @@ the Doctor said: "well what are the symptoms"
 the man said: "Homer is fat and stupid and Marge has tall blue hair"
 Robert Pratley :) */
 
+/*
+Whisk together eggs, cinnamon milk and butter; then gradually whisk in milk.
+Dredge each piece of bread through this egg mixture (do this right before placing it on the griddle! If you dredge your bread and then leave it to sit on a plate before cooking it, it tends to come out soggy).
+Cook the dredged bread on a griddle or in a large nonstick skillet in melted butter, until golden brown on either side and nicely puffed up.
+Serve immediately, or keep warm in a single layer on a rack in the oven at 125°F until all of the French toast slices have been cooked.  --Devin J
+*/
+
 int count = 0;
 int buttonState;
 int ledPins[] = {5,6,7};
